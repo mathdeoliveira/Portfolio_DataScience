@@ -4,7 +4,7 @@
 
 # Matheus de Oliveira Alves
 
-
+  Aqui se encontra meus projetos na área de Data Science.
 
 
 **Background in:** Microstrategy, Pentaho, Informatica PowerCenter, Microsoft PowerBI, Python, Machine Learning.
@@ -14,4 +14,4 @@
 * [Medium](https://medium.com/@matheusdeoliveiraalves)
 
 **Projetos:**
-* Analisando os dados do Airbnb - Barcelona (http://bit.ly/2utpyyG)
+* **Analisando os dados do Airbnb - Barcelona**: http://bit.ly/2utpyyG
