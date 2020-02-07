@@ -7,7 +7,7 @@
   Aqui se encontra meus projetos na área de Data Science.
 
 
-**Background in:** Microstrategy, Pentaho, Informatica PowerCenter, Microsoft PowerBI, Python, Machine Learning.
+**Conhecimento em:** Python, Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-de-oliveira-alves/)
