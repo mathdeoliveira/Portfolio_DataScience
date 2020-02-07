@@ -14,4 +14,4 @@
 * [Medium](https://medium.com/@matheusdeoliveiraalves)
 
 **Projetos:**
-* **Analisando os dados do Airbnb - Barcelona**: http://bit.ly/2utpyyG
+* **Analisando os dados do Airbnb - Barcelona**: (http://bit.ly/2utpyyG)
