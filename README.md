@@ -14,5 +14,7 @@
 * [Medium](https://medium.com/@matheusdeoliveiraalves)
 
 **Projetos:**
+
+**Análise Exploratória de Dados**
 * **Analisando os dados do Airbnb - Barcelona**: (http://bit.ly/2utpyyG)
 * **Analisando dados da Violência no Rio de Janeiro**: (http://bit.ly/37aDriM)
