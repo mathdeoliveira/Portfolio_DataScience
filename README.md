@@ -15,6 +15,7 @@
 
 **Projetos:**
 
-**Análise Exploratória de Dados**
+**Análises Exploratórias de Dados**
 * **Analisando os dados do Airbnb - Barcelona**: (http://bit.ly/2utpyyG)
 * **Analisando dados da Violência no Rio de Janeiro**: (http://bit.ly/37aDriM)
+* **Analisando os dados sobre o Coronavirus 2019**: (http://bit.ly/2OMwAWs)
