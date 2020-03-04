@@ -21,4 +21,4 @@
 * **Analisando os dados sobre o Coronavirus 2019**: (http://bit.ly/2OMwAWs)
 
 **Machine Learning**
-* **Detecção de Fraude em Cartões de Crédito**: (http://bit.ly/2PGxiF2)
+* **Detecção de Fraude em Cartões de Crédito**: 
