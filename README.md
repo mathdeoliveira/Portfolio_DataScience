@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/author-mathdeoliveira-lightgrey)
+
 <p align="center">
   <img src="banner.png" >
 </p>
