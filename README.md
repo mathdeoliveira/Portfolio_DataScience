@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/author-mathdeoliveira-lightgrey)(https://www.linkedin.com/in/matheus-de-oliveira-alves/)
+[![](https://img.shields.io/badge/author-mathdeoliveira-lightgrey)](https://www.linkedin.com/in/matheus-de-oliveira-alves/)
 ![](https://img.shields.io/badge/python-3.7%2B-blue)
 
 <p align="center">
