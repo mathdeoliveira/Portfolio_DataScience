@@ -25,3 +25,4 @@
 
 **Machine Learning**
 * **Detecção de Fraude em Cartões de Crédito**: (http://bit.ly/2PGxiF2)
+* **Previsão do preço do imóvel na cidade de São Paulo**: (http://bit.ly/2Qq2ngF)
