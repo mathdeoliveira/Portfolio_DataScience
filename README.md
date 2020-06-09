@@ -24,5 +24,6 @@
 * **Analisando os dados sobre o Coronavirus 2019**: (http://bit.ly/2OMwAWs)
 
 **Machine Learning**
+* **Recomendação de imóveis para o meu perfil, projeto completo**: (https://bit.ly/3hbE6GP)
 * **Detecção de Fraude em Cartões de Crédito**: (http://bit.ly/2PGxiF2)
 * **Previsão do preço do imóvel na cidade de São Paulo**: (http://bit.ly/2Qq2ngF)
