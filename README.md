@@ -28,4 +28,4 @@ Esse repositório contém projetos de data science feitos por mim. Os projetos s
   - [Previsão do preço do imóvel na cidade de São Paulo](http://bit.ly/2Qq2ngF): Projeto _end-to-end_ desenvolvido para prever o valor de um imóvel, dado as suas especificações, na cidade de São Paulo. É feito vários testes de algoritmos de machine learning e é definido o melhor modelo de acordo com as métricas de avaliação. Desenvolvido um _web-app_ para a previsão do preço de acordo com a entrada do usuário.
   - [Detecção de Fraude em Cartões de Crédito](http://bit.ly/2PGxiF2): Projeto usando machine learning para prever fraude em cartões de créditos. É desenvolvido análise dos dados e implementando algoritmos de machine learning para ajudar a detectar fraudes de cartão de crédito.
   
-  _Ferramentas: scikit-learn, xgboost, catboost, pandas, numpy, matplotlib, seaborn_
+  _Ferramentas: scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_
