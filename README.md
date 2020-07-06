@@ -24,7 +24,7 @@ Esse repositório contém projetos de data science feitos por mim. Os projetos s
 
 - ### **Machine Learning**
   - [Recomendação de imóveis para o meu perfil, projeto completo](https://bit.ly/3hbE6GP): Projeto _end-to-end_ desenvolvido para recomendar imóveis da minha cidade de acordo com as características desejadas por mim. Usando Scrapy para popular a base de dados utilizado machine learning para classificar os imóveis e me recomendar a probabilidade desse imóvel ser de acordo com as características e criado um _web-app_ como interface e deploy na AWS.
-  - [Business analytics - identificando motivos de churn de clientes](https://bit.ly/2YX7wBt): Projeto focado em business analytics, utilizando estatísticas e machine learning para identificar os motivos decisivos dos clientes deixaram a empresa.
+  - [Business analytics - identificando motivos de churn de clientes](https://bit.ly/2O0cJSI): Projeto focado em business analytics, utilizando estatísticas e machine learning para identificar os motivos decisivos dos clientes deixaram a empresa.
   - [Previsão do preço do imóvel na cidade de São Paulo](http://bit.ly/2Qq2ngF): Projeto _end-to-end_ desenvolvido para prever o valor de um imóvel, dado as suas especificações, na cidade de São Paulo. É feito vários testes de algoritmos de machine learning e é definido o melhor modelo de acordo com as métricas de avaliação. Desenvolvido um _web-app_ para a previsão do preço de acordo com a entrada do usuário.
   - [Detecção de Fraude em Cartões de Crédito](http://bit.ly/2PGxiF2): Projeto usando machine learning para prever fraude em cartões de créditos. É desenvolvido análise dos dados e implementando algoritmos de machine learning para ajudar a detectar fraudes de cartão de crédito.
   
